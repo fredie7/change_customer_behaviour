@@ -1,5 +1,6 @@
-# A MACHINE LEARNING MODEL BUILT TO TWEAK CUSTOMER BEHAVIOUR IN A BUSINESS THAT WAS FOREDOOMED TO FAIL FROM LOSING HUGE CUSTOMER BASE.
-## A super store giant seeks to find out factors debilitating against her business and what works best for them. They also seek ways to optimize sales and profit.
+# A MACHINE LEARNING MODEL BUILT TO TWEAK CUSTOMER BEHAVIOR IN A SEEMINGLY FOREDOOMED BUSINESS THAT WAS ON THE VERGE OF LOSING A HUGE NUMBER OF CUSTOMER BASE.
+
+## A super store giant seeks to find out and nullify factors debilitating against her business and figure out what works best for them, in efforts to optimizing sales and maximizing profit potential.
 This project breeds some incisive analytics and points through the right direction in unravelling a business model that optimizes profit potential through a surge in sale numbers using the Lasso Regression model.
 Here's a step-wise progression on pointers to the aforementioned business solution:
 * Imported project dependencies
@@ -26,5 +27,5 @@ Here's a step-wise progression on pointers to the aforementioned business soluti
 * Split dataset
 * Built models using Linear, Ridge and Lasso Regression algorithms, and chose to stick with Lasso Regression model for it's highest metric score value and performance.
 * Created a new dataset obtained from test result that closes the gap on uneven appropriation of discounts and optimizes sales across board. Though, this came at a cost of some changes in price per item across board but the new business model promises a surge in record "sale" value of 85,741 as against the previous 85,324.
-* More detailed analysis with accomanying visuals can be accessed from the following link below:
+* More detailed analysis with accompanying visuals can be accessed from the following link below:
 <a href="https://github.com/fredie7/change_customer_behaviour/blob/main/sales_pred.ipynb">https://github.com/fredie7/change_customer_behaviour/blob/main/sales_pred.ipynb</a>
